@@ -128,3 +128,17 @@ h1{
 .community p{
     margin-bottom: 40px;
 }
+
+.footer{
+    text-align: center;
+    background-color: black;
+    color: grey;
+    padding: 30px 0px;
+    margin-top: 50px;
+}
+.white-text{
+    color: white;
+}
+.red-text{
+    color: tomato;
+}
