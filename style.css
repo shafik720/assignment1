@@ -38,3 +38,30 @@ h1{
     font-weight: 700;
     border-radius: 5px;
 }
+.second-section{
+    text-align: center;
+    width: 90%;    
+    margin: 0px auto;
+}
+.mission-section{
+    display: flex;
+}
+.mission{
+    width: 25%;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+}
+.mission-1{
+    background-color: #FFE793;
+}
+.mission-2{
+    background-color: cyan;
+}
+.mission-3{
+    background-color: plum;
+}
+.mission img{
+    width: 60%;
+}
