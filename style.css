@@ -38,10 +38,12 @@ h1{
     font-weight: 700;
     border-radius: 5px;
 }
+
 .second-section{
     text-align: center;
     width: 90%;    
     margin: 0px auto;
+    margin-top: 50px;
 }
 .mission-section{
     display: flex;
@@ -64,4 +66,20 @@ h1{
 }
 .mission img{
     width: 60%;
+}
+
+.section-3{
+    display: flex;
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 60px;
+}
+.section-3 img{
+    width: 70%;
+}
+.limit{
+    width: 90%;
+}
+.limit p{
+    margin-bottom: 40px;
 }
