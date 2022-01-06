@@ -11,12 +11,30 @@ h1{
 }
 .focus{
     width: 50%;
-    padding-left: 5%;
+    padding-left: 8%;
     margin-top: 5%;
+    line-height: 2;
+}
+.focused{
+    border-left: 5px solid;
+    border-image: linear-gradient(orange, tomato) ;
+    border-image-slice: 1;
+    line-height: 200%;
+}
+.focused-text{
+    margin-left: 3%;
 }
 .focus img{
     width: 70%;
 }
 .oranged-text{
     color: orange;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 30px;
+    font-weight: 700;
+    border-radius: 5px;
 }
