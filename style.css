@@ -38,6 +38,22 @@ h1{
     font-weight: 700;
     border-radius: 5px;
 }
+.button2{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    color: white;
+    padding: 10px 30px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.button3{
+    text-decoration: none;
+    background-image: linear-gradient(skyblue, cyan);
+    color: white;
+    padding: 10px 30px;
+    font-weight: 700;
+    border-radius: 5px;
+}
 
 .second-section{
     text-align: center;
@@ -49,7 +65,7 @@ h1{
     display: flex;
 }
 .mission{
-    width: 25%;
+    width: 33%;
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
@@ -74,10 +90,9 @@ h1{
     background-position: left 50px;
     background-size: 20%;
 }
-
 .section-3{
     display: flex;
-    width: 80%;
+    width: 90%;
     margin: 0px auto;
     margin-top: 60px;
 }
@@ -85,8 +100,28 @@ h1{
     width: 70%;
 }
 .limit{
-    width: 90%;
+    width: 80%;
 }
 .limit p{
     margin-bottom: 40px;
+}
+
+.section-four{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right 50px;
+    background-size: 20%;
+}
+.section-4{
+    display: flex;
+    width: 90%;
+    margin: 0px auto;
+    margin-top: 60px;
+}
+.section-4 img{
+    width: 70%;
+    margin-left: 30%;
+}
+.community{
+    width: 80%;
 }
