@@ -1,6 +1,7 @@
 
 body{
     font-family: 'PT Serif', serif;
+    margin: 0px;
 }
 h1{
     font-size: 50px;
@@ -107,7 +108,7 @@ h1{
 }
 
 .section-four{
-    background-image: url(images/shape-1.png);
+    background-image: url(images/shape-6.png);
     background-repeat: no-repeat;
     background-position: right bottom 90px;
     background-size: 20%;
