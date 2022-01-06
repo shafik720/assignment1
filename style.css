@@ -1,0 +1,22 @@
+
+body{
+    font-family: 'PT Serif', serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.first-section{
+    display: flex;
+}
+.focus{
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 5%;
+}
+.focus img{
+    width: 70%;
+}
+.oranged-text{
+    color: orange;
+}
